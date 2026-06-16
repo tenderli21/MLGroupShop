@@ -28,8 +28,7 @@ var launchUrl = launchUrls.FirstOrDefault(url =>
         url.StartsWith("http://", StringComparison.OrdinalIgnoreCase))
     ?? "http://localhost:5000";
 
-var useHttpsRedirection = launchUrls.Any(url =>
-    url.StartsWith("https://", StringComparison.OrdinalIgnoreCase));
+var useHttpsRedirection = isDevelopment;
 
 builder.Services.AddDbContext<AppDbContext>(options =>
     options.UseSqlServer(
