@@ -7,14 +7,7 @@ var isDevelopment = string.Equals(
     "Development",
     StringComparison.OrdinalIgnoreCase);
 
-var builder = isDevelopment
-    ? WebApplication.CreateBuilder(args)
-    : WebApplication.CreateBuilder(new WebApplicationOptions
-    {
-        Args = args,
-        ContentRootPath = AppContext.BaseDirectory,
-        WebRootPath = "wwwroot"
-    });
+var builder = WebApplication.CreateBuilder(args);
 
 var launchUrls = (Environment.GetEnvironmentVariable("ASPNETCORE_URLS") ?? string.Empty)
     .Split(';', StringSplitOptions.RemoveEmptyEntries)
