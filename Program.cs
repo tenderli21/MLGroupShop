@@ -1,0 +1,94 @@
+using MLGroupShop.Data;
+using Microsoft.EntityFrameworkCore;
+using System.Diagnostics;
+
+var isDevelopment = string.Equals(
+    Environment.GetEnvironmentVariable("ASPNETCORE_ENVIRONMENT"),
+    "Development",
+    StringComparison.OrdinalIgnoreCase);
+
+var builder = isDevelopment
+    ? WebApplication.CreateBuilder(args)
+    : WebApplication.CreateBuilder(new WebApplicationOptions
+    {
+        Args = args,
+        ContentRootPath = AppContext.BaseDirectory,
+        WebRootPath = "wwwroot"
+    });
+
+var launchUrls = (Environment.GetEnvironmentVariable("ASPNETCORE_URLS") ?? string.Empty)
+    .Split(';', StringSplitOptions.RemoveEmptyEntries)
+    .Select(url => url.Trim())
+    .Where(url => !string.IsNullOrWhiteSpace(url))
+    .ToArray();
+
+var launchUrl = launchUrls.FirstOrDefault(url =>
+        url.StartsWith("https://", StringComparison.OrdinalIgnoreCase))
+    ?? launchUrls.FirstOrDefault(url =>
+        url.StartsWith("http://", StringComparison.OrdinalIgnoreCase))
+    ?? "http://localhost:5000";
+
+var useHttpsRedirection = launchUrls.Any(url =>
+    url.StartsWith("https://", StringComparison.OrdinalIgnoreCase));
+
+builder.Services.AddDbContext<AppDbContext>(options =>
+    options.UseSqlServer(
+        builder.Configuration.GetConnectionString("DefaultConnection")));
+
+builder.Services.AddControllersWithViews();
+
+builder.Services.AddAuthentication("CookieAuth")
+    .AddCookie("CookieAuth", config =>
+    {
+        config.LoginPath = "/Account/Login";
+
+        config.Cookie.Name = "MLGroupAuth";
+
+        config.ExpireTimeSpan = TimeSpan.FromHours(12);
+
+        config.SlidingExpiration = false;
+    });
+
+var app = builder.Build();
+
+if (!app.Environment.IsDevelopment())
+{
+    app.UseExceptionHandler("/Home/Error");
+    app.UseHsts();
+}
+
+if (useHttpsRedirection)
+{
+    app.UseHttpsRedirection();
+}
+
+app.UseStaticFiles();
+
+app.UseRouting();
+
+app.UseAuthentication();
+
+app.UseAuthorization();
+
+app.MapControllerRoute(
+    name: "default",
+    pattern: "{controller=Account}/{action=Login}/{id?}");
+
+app.Lifetime.ApplicationStarted.Register(() =>
+{
+    try
+    {
+        Process.Start(new ProcessStartInfo
+        {
+            FileName = launchUrl,
+            UseShellExecute = true
+        });
+    }
+    catch
+    {
+        // If the browser cannot be opened automatically, keep the host running.
+    }
+});
+
+
+app.Run();

@@ -1,0 +1,274 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="preconnect"
+          href="https://fonts.googleapis.com">
+
+    <link rel="preconnect"
+          href="https://fonts.gstatic.com"
+          crossorigin>
+
+    <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700;800&display=swap"
+          rel="stylesheet">
+    <title>@ViewData["Title"] - MLGroupShop</title>
+
+    <link rel="stylesheet"
+          href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+
+    <link rel="stylesheet"
+          href="~/css/site.css"
+          asp-append-version="true" />
+
+    <link rel="stylesheet"
+          href="~/MLGroupShop.styles.css"
+          asp-append-version="true" />
+
+</head>
+
+<body style="
+    background:#f8fafc;
+    font-family:'Manrope', sans-serif;">
+
+    <header>
+
+        <nav style="
+            background:white;
+            border-bottom:1px solid #e5e7eb;
+            box-shadow:0 2px 10px rgba(0,0,0,0.04);">
+
+            <!-- ВЕРХНИЙ БЛОК -->
+
+            <div class="container-fluid px-4"
+                 style="
+                padding-top:8px;
+                padding-bottom:8px;">
+
+                <div class="d-flex align-items-center justify-content-between">
+
+                    <!-- ЛОГО -->
+
+                    <div class="d-flex align-items-center gap-3">
+
+                        <img src="~/images/logo.png"
+                             style="
+                        width:220px;
+                        height:auto;
+                        object-fit:contain;" />
+
+                        <div>
+
+                            <h2 style="
+                                margin:0;
+                                font-weight:800;
+                                color:#0f172a;
+                                letter-spacing:0.5px;
+                                font-size:48px;">
+
+                                ML Group Shop
+
+                            </h2>
+
+                            <span style="
+                                color:#64748b;
+                                font-size:18px;">
+
+                                Швейное производство
+
+                            </span>
+
+                        </div>
+
+                    </div>
+
+                    <!-- ПОИСК -->
+
+                    <div style="
+                        width:1550px;
+                        margin:0 auto;">
+
+                        <form asp-controller="Products"
+                              asp-action="Index"
+                              method="get">
+
+                            <div class="d-flex gap-3">
+
+                                <!-- INPUT -->
+
+                                <input type="text"
+                                       name="search"
+                                       placeholder="Поиск товаров..."
+                                       class="form-control"
+                                       style="
+                                height:60px;
+                                border-radius:18px;
+                                border:none;
+                                background:#f1f5f9;
+                                padding-left:25px;
+                                font-size:18px;
+                                min-width:0;" />
+
+                                <!-- FILTER -->
+
+                                <div class="dropdown">
+
+                                    <button class="btn"
+                                            type="button"
+                                            data-bs-toggle="dropdown"
+                                            style="
+                                        height:60px;
+                                        border-radius:18px;
+                                        background:#2563eb;
+                                        color:white;
+                                        width:150px;
+                                        font-weight:700;
+                                        font-size:17px;
+                                        border:none;">
+
+                                        Фильтры
+
+                                    </button>
+                                    
+                                    <div class="dropdown-menu p-4"
+                                         style="
+                                        width:340px;
+                                        border:none;
+                                        border-radius:20px;
+                                        box-shadow:0 10px 35px rgba(0,0,0,0.12);">
+
+                                        <h4 class="mb-3">
+                                            Фильтрация
+                                        </h4>
+
+                                        <input type="number"
+                                               name="minPrice"
+                                               class="form-control mb-3"
+                                               placeholder="Цена от" />
+
+                                        <input type="number"
+                                               name="maxPrice"
+                                               class="form-control mb-3"
+                                               placeholder="Цена до" />
+
+                                        <select name="sortOrder"
+                                                class="form-select mb-3">
+
+                                            <option value="">
+                                                Сортировка
+                                            </option>
+
+                                            <option value="price_asc">
+                                                Цена ↑
+                                            </option>
+
+                                            <option value="price_desc">
+                                                Цена ↓
+                                            </option>
+
+                                        </select>
+
+                                        <button type="submit"
+                                                class="btn w-100"
+                                                style="
+                                            background:#0f172a;
+                                            color:white;
+                                            border-radius:12px;
+                                            height:48px;
+                                            font-size:16px;">
+
+                                            Применить
+
+                                        </button>
+
+                                    </div>
+
+                                </div>
+
+                            </div>
+
+                        </form>
+
+                    </div>
+
+                    <!-- ПРАВАЯ ЧАСТЬ -->
+                    <div class="d-flex align-items-center gap-4">
+
+                        
+
+                        <a asp-controller="Cart"
+                               asp-action="Index"
+                               style="
+                            text-decoration:none;
+                            color:#0f172a;
+                            font-weight:700;
+                            font-size:24px;">
+
+                            🛒 Корзина
+
+                        </a>
+
+                        <a asp-controller="Account"
+                               asp-action="Logout"
+                               style="
+                            text-decoration:none;
+                            color:#ef4444;
+                            font-weight:700;
+                            font-size:24px;">
+
+                            Выйти
+
+                        </a>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+           
+
+        </nav>
+        <div style="
+            width:100%;
+            background:#2563eb;
+            color:white;
+            padding:12px 40px;
+            display:flex;
+            justify-content:center;
+            gap:60px;
+            font-size:18px;
+            font-weight:600;
+            box-shadow:0 4px 12px rgba(37,99,235,0.15);
+            ">
+
+            <span>📞 Техподдержка: +7 (900) 123-45-67</span>
+
+            <span>✉ support@mlgroupshop.ru</span>
+
+            <span>🕘 Пн–Пт: 09:00–18:00</span>
+
+        </div>
+    </header>
+
+    <div class="container">
+
+        <main role="main" class="pb-3">
+
+            @RenderBody()
+
+        </main>
+
+    </div>
+
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+
+    <script src="~/js/site.js"
+            asp-append-version="true"></script>
+
+    @await RenderSectionAsync("Scripts", required: false)
+
+</body>
+</html>

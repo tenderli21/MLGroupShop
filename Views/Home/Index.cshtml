@@ -1,0 +1,391 @@
+﻿@{
+    ViewData["Title"] = "Главная";
+}
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+<link href="https://fonts.googleapis.com/css2?family=Manrope:wght@300;400;500;600;700;800&display=swap"
+      rel="stylesheet">
+
+<style>
+
+    body {
+        background: #f5f7fb;
+        font-family: 'Manrope', sans-serif;
+    }
+
+    .admin-home {
+        padding-top: 50px;
+        padding-bottom: 80px;
+    }
+
+    .hero-block {
+        background: white;
+        border-radius: 36px;
+        padding: 70px;
+        box-shadow: 0 10px 40px rgba(0,0,0,0.04);
+        margin-bottom: 60px;
+    }
+
+    .hero-title {
+        font-size: 64px;
+        font-weight: 900;
+        color: #0f172a;
+        margin-bottom: 18px;
+        letter-spacing: -2px;
+    }
+
+    .hero-subtitle {
+        font-size: 22px;
+        color: #64748b;
+        margin-bottom: 50px;
+    }
+
+    .hero-logo {
+        width: 440px;
+        margin-bottom: 40px;
+    }
+
+    .stat-card {
+        background: linear-gradient(135deg, #2563eb, #3b82f6);
+        border-radius: 30px;
+        padding: 38px;
+        color: white;
+        height: 100%;
+        box-shadow: 0 10px 30px rgba(37,99,235,0.22);
+    }
+
+    .stat-number {
+        font-size: 46px;
+        font-weight: 900;
+    }
+
+    .stat-text {
+        opacity: 0.92;
+        margin-top: 12px;
+        font-size: 18px;
+    }
+
+    .section-title {
+        text-align: center;
+        font-size: 54px;
+        font-weight: 900;
+        color: #0f172a;
+        margin-bottom: 50px;
+    }
+
+    .admin-grid {
+        display: grid;
+        grid-template-columns: repeat(3, minmax(0, 1fr));
+        gap: 40px;
+        width: 100%;
+        align-items: stretch;
+    }
+
+    .admin-card {
+        background: white;
+        border-radius: 34px;
+        padding: 45px;
+        min-height: 460px;
+        box-shadow: 0 10px 35px rgba(0,0,0,0.05);
+        transition: 0.35s;
+        border: none;
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+        justify-content: space-between;
+    }
+
+        .admin-card:hover {
+            transform: translateY(-8px);
+            box-shadow: 0 18px 45px rgba(0,0,0,0.08);
+        }
+
+    .card-icon {
+        width: 92px;
+        height: 92px;
+        border-radius: 26px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        font-size: 42px;
+        margin-bottom: 30px;
+    }
+
+    .blue-icon {
+        background: rgba(37,99,235,0.10);
+    }
+
+    .dark-icon {
+        background: rgba(15,23,42,0.08);
+    }
+
+    .purple-icon {
+        background: rgba(124,58,237,0.10);
+    }
+
+    .card-title {
+        font-size: 42px;
+        font-weight: 900;
+        color: #0f172a;
+        margin-bottom: 20px;
+    }
+
+    .card-text {
+        color: #64748b;
+        font-size: 20px;
+        margin-bottom: 40px;
+        line-height: 1.9;
+    }
+
+    .premium-btn {
+        width: 100%;
+        border-radius: 20px;
+        padding: 18px 24px;
+        font-size: 20px;
+        font-weight: 800;
+        border: none;
+        transition: 0.3s;
+        text-decoration: none;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .btn-blue {
+        background: #2563eb;
+        color: white;
+    }
+
+    .btn-dark {
+        background: #0f172a;
+        color: white;
+    }
+
+    .btn-purple {
+        background: #7c3aed;
+        color: white;
+    }
+
+    .mini-info {
+        background: white;
+        border-radius: 30px;
+        padding: 40px;
+        margin-top: 55px;
+        box-shadow: 0 10px 35px rgba(0,0,0,0.04);
+    }
+
+    .mini-title {
+        font-size: 34px;
+        font-weight: 900;
+        margin-bottom: 20px;
+        color: #0f172a;
+    }
+
+    .mini-text {
+        color: #64748b;
+        line-height: 2;
+        font-size: 18px;
+    }
+
+</style>
+
+<div class="container admin-home">
+
+    <div class="hero-block text-center">
+        <img src="~/images/logo.png"
+             class="hero-logo" />
+        <h1 class="hero-title">
+            ML Group Admin
+        </h1>
+
+        <p class="hero-subtitle">
+            Панель управления интернет-магазином
+        </p>
+
+        
+
+        <div class="row g-4 mt-2">
+
+            <div class="col-md-4">
+
+                <div class="stat-card">
+
+                    <div class="stat-number">
+                        120+
+                    </div>
+
+                    <div class="stat-text">
+                        Товаров в каталоге
+                    </div>
+
+                </div>
+
+            </div>
+
+            <div class="col-md-4">
+
+                <div class="stat-card">
+
+                    <div class="stat-number">
+                        48
+                    </div>
+
+                    <div class="stat-text">
+                        Заказов за месяц
+                    </div>
+
+                </div>
+
+            </div>
+
+            <div class="col-md-4">
+
+                <div class="stat-card">
+
+                    <div class="stat-number">
+                        98%
+                    </div>
+
+                    <div class="stat-text">
+                        Довольных клиентов
+                    </div>
+
+                </div>
+
+            </div>
+
+        </div>
+
+    </div>
+
+    <h2 class="section-title">
+        Управление системой
+    </h2>
+
+    <div class="admin-grid">
+
+        <!-- ТОВАРЫ -->
+
+        <div class="admin-card">
+
+            <div>
+
+                <div class="card-icon blue-icon">
+                    🛍️
+                </div>
+
+                <div class="card-title">
+                    Товары
+                </div>
+
+                <div class="card-text">
+                    Добавление, изменение и управление каталогом
+                    товаров магазина.
+                </div>
+
+            </div>
+
+            <a asp-controller="Products"
+                   asp-action="Index"
+                   class="premium-btn btn-blue">
+
+                Управление товарами
+
+            </a>
+
+        </div>
+
+        <!-- ЗАКАЗЫ -->
+
+        <div class="admin-card">
+
+            <div>
+
+                <div class="card-icon dark-icon">
+                    📦
+                </div>
+
+                <div class="card-title">
+                    Заказы
+                </div>
+
+                <div class="card-text">
+                    Полученные заказы, статусы доставки
+                    и оформление покупок.
+                </div>
+
+            </div>
+
+            <a asp-controller="Orders"
+                   asp-action="Index"
+                   class="premium-btn btn-dark">
+
+                Открыть заказы
+
+            </a>
+
+        </div>
+
+        <!-- CRM -->
+
+        
+
+            <div class="admin-card">
+
+                <div class="card-icon purple-icon">
+                    📈
+                </div>
+
+                <div class="card-title">
+                    Аналитика
+                </div>
+
+                <div class="card-text">
+                    Выручка, диаграммы, статистика продаж и аналитика клиентов.
+                </div>
+
+                <a asp-controller="Analytics"
+                       asp-action="Index"
+                       class="btn btn-dark w-100 rounded-pill py-3 fw-bold">
+                    Открыть CRM
+                </a>
+
+            </div>
+
+        
+
+    </div>
+
+        <!-- КЛИЕНТЫ -->
+
+        
+
+        <!-- ЗАКАЗЫ -->
+
+        
+
+        <!-- CRM -->
+
+       
+
+    </div>
+
+    <div class="mini-info">
+
+        <div class="mini-title">
+            О системе
+        </div>
+
+        <div class="mini-text">
+
+            ML Group Shop — современная система управления интернет-магазином
+            швейного производства. Панель администратора позволяет управлять
+            товарами, клиентами, заказами и аналитикой продаж в одном месте.
+
+        </div>
+
+    </div>
+
+</div>

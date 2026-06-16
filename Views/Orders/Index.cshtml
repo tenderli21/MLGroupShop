@@ -1,0 +1,355 @@
+﻿@model IEnumerable<MLGroupShop.Models.Order>
+
+@{
+    ViewData["Title"] = "Продажи";
+}
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+<link href="https://fonts.googleapis.com/css2?family=Manrope:wght@300;400;500;600;700&display=swap"
+      rel="stylesheet">
+
+<style>
+
+    body {
+        background: #f5f7fb;
+        font-family: 'Manrope', sans-serif;
+    }
+
+    .orders-wrapper {
+        padding-top: 40px;
+        padding-bottom: 60px;
+    }
+
+    .orders-title {
+        font-size: 48px;
+        font-weight: 700;
+        color: #0f172a;
+        margin-bottom: 35px;
+        letter-spacing: -1px;
+    }
+
+    .top-cards {
+        margin-bottom: 35px;
+    }
+
+    .info-card {
+        background: white;
+        border-radius: 24px;
+        padding: 30px;
+        box-shadow: 0 10px 30px rgba(0,0,0,0.05);
+        height: 100%;
+    }
+
+    .info-title {
+        font-size: 16px;
+        color: #64748b;
+        margin-bottom: 12px;
+    }
+
+    .info-number {
+        font-size: 38px;
+        font-weight: 700;
+        color: #2563eb;
+    }
+
+    .orders-table {
+        background: white;
+        border-radius: 28px;
+        overflow: hidden;
+        box-shadow: 0 10px 35px rgba(0,0,0,0.05);
+    }
+
+    .table {
+        margin-bottom: 0;
+    }
+
+        .table thead {
+            background: #0f172a;
+            color: white;
+        }
+
+        .table th {
+            border: none;
+            padding: 22px;
+            font-weight: 600;
+            font-size: 16px;
+        }
+
+        .table td {
+            padding: 22px;
+            vertical-align: middle;
+            border-color: #eef2f7;
+            font-size: 16px;
+        }
+
+    .price {
+        color: #2563eb;
+        font-weight: 700;
+        font-size: 18px;
+    }
+
+    .quantity {
+        font-weight: 600;
+        color: #0f172a;
+    }
+
+    .badge-premium {
+        background: rgba(37,99,235,0.1);
+        color: #2563eb;
+        padding: 10px 16px;
+        border-radius: 14px;
+        font-weight: 600;
+        font-size: 14px;
+    }
+
+</style>
+
+<div class="container orders-wrapper">
+
+    <h1 class="orders-title">
+        Продажи и заказы
+    </h1>
+    <a asp-controller="Home"
+           asp-action="Index"
+           class="btn btn-dark mb-4">
+
+        Панель управления
+
+    </a>
+
+    <div class="row g-4 top-cards">
+
+        <div class="col-md-4">
+
+            <div class="info-card">
+
+                <div class="info-title">
+                    Всего заказов
+                </div>
+
+                <div class="info-number">
+                    @Model.Count()
+                </div>
+
+            </div>
+
+        </div>
+
+        <div class="col-md-4">
+
+            <div class="info-card">
+
+                <div class="info-title">
+                    Общая выручка
+                </div>
+
+                <div class="info-number">
+                    @Model.Sum(x => x.TotalPrice) ₽
+                </div>
+
+            </div>
+
+        </div>
+
+        <div class="col-md-4">
+
+            <div class="info-card">
+
+                <div class="info-title">
+                    Проданных товаров
+                </div>
+
+                <div class="info-number">
+                    @Model.Sum(x => x.Quantity)
+                </div>
+
+            </div>
+
+        </div>
+
+    </div>
+
+    <div class="orders-table">
+
+        <table class="table">
+
+            <thead>
+
+               
+                    <tr>
+                        <th>Покупатель</th>
+                        <th>Телефон</th>
+                        <th>Адрес</th>
+                        <th>Товар</th>
+                        <th>Количество</th>
+                        <th>Сумма</th>
+                        <th>Статус</th>
+                    </tr>
+                </tr>
+
+            </thead>
+
+            <tbody>
+
+                @foreach (var item in Model)
+                {
+                    <tr>
+
+                        <td>
+                            @item.CustomerName
+                        </td>
+
+                        <td>
+                            @item.Phone
+                        </td>
+
+                        <td>
+                            @item.Address
+                        </td>
+
+                        <td>
+                            @item.ProductName
+                        </td>
+
+                        <td class="quantity">
+                            @item.Quantity шт.
+                        </td>
+
+                    <td>
+
+                        @if (item.IsCustom && item.TotalPrice == 0)
+                        {
+                            <form asp-action="UpdatePrice"
+                                  asp-controller="Orders"
+                                  method="post"
+                                  class="d-flex gap-2">
+
+                                <input type="hidden"
+                                       name="id"
+                                       value="@item.Id" />
+
+                                <input type="number"
+                                       name="price"
+                                       class="form-control"
+                                       placeholder="Цена"
+                                       style="width:120px;" />
+
+                                <button class="btn btn-primary btn-sm">
+
+                                    Сохранить
+
+                                </button>
+
+                            </form>
+                        }
+                        else
+                        {
+                            <span class="fw-bold text-primary text-nowrap">
+                                @item.TotalPrice ₽
+                            </span>
+                        }
+
+                    </td>
+
+                        <td>
+
+                            <select class="status-select
+                                @(item.Status == "На рассмотрении" ? "status-review" :
+                                              item.Status == "В процессе" ? "status-progress" :
+                                              item.Status == "Готово" ? "status-done" :
+                                              item.Status == "Индивидуальный пошив" ? "status-custom" :
+                                              "")">
+
+                                @if (item.Status == "На рассмотрении")
+                                {
+                                    <option selected>На рассмотрении</option>
+                                }
+                                else
+                                {
+                                    <option>На рассмотрении</option>
+                                }
+
+                                @if (item.Status == "В процессе")
+                                {
+                                    <option selected>В процессе</option>
+                                }
+                                else
+                                {
+                                    <option>В процессе</option>
+                                }
+
+                                @if (item.Status == "Готово")
+                                {
+                                    <option selected>Готово</option>
+                                }
+                                else
+                                {
+                                    <option>Готово</option>
+                                }
+
+                                @if (item.Status == "Индивидуальный пошив")
+                                {
+                                    <option selected>Индивидуальный пошив</option>
+                                }
+                                else
+                                {
+                                    <option>Индивидуальный пошив</option>
+                                }
+
+                            </select>
+
+                        </td>
+
+                    </tr>
+                }
+
+            </tbody>
+
+        </table>
+
+    </div>
+
+</div>
+<style>
+
+    .status-select {
+        border: none;
+        border-radius: 14px;
+        padding: 10px 14px;
+        font-weight: 700;
+        min-width: 220px;
+        outline: none;
+    }
+
+    /* На рассмотрении */
+
+    .status-review {
+        background: #f3f4f6;
+        color: #6b7280;
+    }
+
+    /* В процессе */
+
+    .status-progress {
+        background: #fff7ed;
+        color: #ea580c;
+    }
+
+    /* Готово */
+
+    .status-done {
+        background: #dcfce7;
+        color: #16a34a;
+    }
+
+    /* Индивидуальный пошив */
+
+    .status-custom {
+        background: linear-gradient(135deg, #2563eb, #1d4ed8);
+        color: white;
+        box-shadow: 0 4px 15px rgba(37,99,235,0.35);
+    }
+
+</style>

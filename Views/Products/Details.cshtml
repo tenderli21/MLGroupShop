@@ -1,0 +1,191 @@
+﻿@model MLGroupShop.Models.Product
+
+@{
+    ViewData["Title"] = "Подробнее";
+}
+
+<div class="container-fluid mt-5 px-5">
+
+    <div class="row g-5 align-items-start">
+
+        <!-- ФОТО -->
+
+        <div class="col-lg-6">
+
+            <div style="
+                background:white;
+                border-radius:28px;
+                overflow:hidden;
+                box-shadow:0 10px 35px rgba(0,0,0,0.08);">
+
+                <img src="@Model.ImagePath"
+                     style="
+                width:100%;
+                height:820px;
+                object-fit:cover;" />
+
+            </div>
+
+        </div>
+
+        <!-- ИНФОРМАЦИЯ -->
+
+        <div class="col-lg-5">
+
+            <!-- БРЕНД -->
+
+            <div style="
+                color:#64748b;
+                font-size:18px;
+                font-weight:600;
+                margin-bottom:10px;">
+
+                ML Group Shop
+
+            </div>
+
+            <!-- НАЗВАНИЕ -->
+
+            <h1 style="
+                font-size:54px;
+                font-weight:800;
+                color:#0f172a;
+                margin-bottom:20px;">
+
+                @Model.Name
+
+            </h1>
+
+            <!-- РЕЙТИНГ -->
+
+            <div style="
+                color:#f59e0b;
+                font-size:20px;
+                font-weight:700;
+                margin-bottom:30px;">
+
+                ★ 4.9
+
+                <span style="
+                    color:#64748b;
+                    font-size:18px;
+                    font-weight:500;">
+
+                    · 445 оценок
+
+                </span>
+
+            </div>
+
+            <!-- ЦЕНА -->
+
+            <div class="d-flex align-items-center gap-3 mb-4">
+
+                <div style="
+                    font-size:52px;
+                    font-weight:800;
+                    color:#2563eb;">
+
+                    @Model.Price ₽
+
+                </div>
+
+                <div style="
+                    color:#94a3b8;
+                    text-decoration:line-through;
+                    font-size:28px;
+                    font-weight:600;">
+
+                    @(Model.Price + 400) ₽
+
+                </div>
+
+            </div>
+
+            <!-- НАЛИЧИЕ -->
+
+            <div style="
+                color:#16a34a;
+                font-size:20px;
+                font-weight:700;
+                margin-bottom:35px;">
+
+                В наличии: @Model.Quantity
+
+            </div>
+
+            <!-- ОПИСАНИЕ -->
+
+            <div style="
+                background:white;
+                border-radius:24px;
+                padding:35px;
+                box-shadow:0 10px 35px rgba(0,0,0,0.05);
+                margin-bottom:35px;">
+
+                <h3 style="
+                    font-weight:800;
+                    color:#0f172a;
+                    margin-bottom:20px;">
+
+                    Описание товара
+
+                </h3>
+
+                <p style="
+                    color:#475569;
+                    font-size:20px;
+                    line-height:1.9;">
+
+                    Качественный товар швейного производства ML Group Shop.
+                    Премиальные материалы, современный стиль и комфорт
+                    для ежедневного использования.
+
+                </p>
+
+            </div>
+
+            <!-- КНОПКИ -->
+
+            <div class="d-flex gap-3">
+
+                <a asp-controller="Cart"
+                       asp-action="Add"
+                       asp-route-id="@Model.Id"
+                       style="
+                    background:#2563eb;
+                    color:white;
+                    border:none;
+                    border-radius:18px;
+                    padding:18px 40px;
+                    font-size:20px;
+                    font-weight:700;
+                    text-decoration:none;
+                    box-shadow:0 10px 25px rgba(37,99,235,0.25);">
+
+                    Добавить в корзину
+
+                </a>
+
+                <a asp-action="Index"
+                       style="
+                    background:white;
+                    color:#0f172a;
+                    border-radius:18px;
+                    padding:18px 35px;
+                    font-size:20px;
+                    font-weight:700;
+                    text-decoration:none;
+                    border:1px solid #e2e8f0;">
+
+                    Назад
+
+                </a>
+
+            </div>
+
+        </div>
+
+    </div>
+
+</div>

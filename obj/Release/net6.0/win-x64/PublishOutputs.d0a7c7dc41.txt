@@ -1,0 +1,4 @@
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\publish\appsettings.Development.json
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\publish\appsettings.json
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\publish\MLGroupShop.pdb
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\publish\MLGroupShop.exe

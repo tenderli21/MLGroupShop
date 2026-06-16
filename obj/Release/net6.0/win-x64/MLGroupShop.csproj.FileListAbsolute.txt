@@ -1,0 +1,1198 @@
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\appsettings.Development.json
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\appsettings.json
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\MLGroupShop.staticwebassets.runtime.json
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\MLGroupShop.staticwebassets.endpoints.json
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\MLGroupShop.exe
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\MLGroupShop.deps.json
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\MLGroupShop.runtimeconfig.json
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\MLGroupShop.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\MLGroupShop.pdb
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Humanizer.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\MessagePack.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\MessagePack.Annotations.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.CodeAnalysis.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.CodeAnalysis.Features.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.Data.SqlClient.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.Data.Sqlite.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.DiaSymReader.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.EntityFrameworkCore.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.Extensions.DependencyModel.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.Identity.Client.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.IdentityModel.Logging.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.IdentityModel.Protocols.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.IdentityModel.Tokens.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.VisualStudio.Debugger.Contracts.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\dotnet-aspnet-codegenerator-design.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.Win32.SystemEvents.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Newtonsoft.Json.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\NuGet.Common.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\NuGet.Configuration.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\NuGet.DependencyResolver.Core.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\NuGet.Frameworks.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\NuGet.LibraryModel.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\NuGet.Packaging.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\NuGet.ProjectModel.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\NuGet.Protocol.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\NuGet.Versioning.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\SQLitePCLRaw.batteries_v2.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\SQLitePCLRaw.core.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Composition.AttributedModel.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Composition.Convention.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Composition.Hosting.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Composition.Runtime.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Composition.TypedParts.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Configuration.ConfigurationManager.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Drawing.Common.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Runtime.Caching.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Security.Cryptography.ProtectedData.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Security.Permissions.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Windows.Extensions.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\af\Humanizer.resources.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\ar\Humanizer.resources.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\az\Humanizer.resources.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\bg\Humanizer.resources.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\bn-BD\Humanizer.resources.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\cs\Humanizer.resources.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\da\Humanizer.resources.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\de\Humanizer.resources.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\el\Humanizer.resources.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\es\Humanizer.resources.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\fa\Humanizer.resources.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\fi-FI\Humanizer.resources.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\fr\Humanizer.resources.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\fr-BE\Humanizer.resources.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\he\Humanizer.resources.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\hr\Humanizer.resources.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\hu\Humanizer.resources.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\hy\Humanizer.resources.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\id\Humanizer.resources.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\is\Humanizer.resources.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\it\Humanizer.resources.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\ja\Humanizer.resources.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\ko-KR\Humanizer.resources.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\ku\Humanizer.resources.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\lv\Humanizer.resources.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\ms-MY\Humanizer.resources.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\mt\Humanizer.resources.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\nb\Humanizer.resources.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\nb-NO\Humanizer.resources.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\nl\Humanizer.resources.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\pl\Humanizer.resources.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\pt\Humanizer.resources.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\ro\Humanizer.resources.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\ru\Humanizer.resources.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\sk\Humanizer.resources.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\sl\Humanizer.resources.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\sr\Humanizer.resources.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\sr-Latn\Humanizer.resources.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\sv\Humanizer.resources.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\th-TH\Humanizer.resources.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\tr\Humanizer.resources.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\uk\Humanizer.resources.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\vi\Humanizer.resources.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\zh-CN\Humanizer.resources.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\zh-Hans\Humanizer.resources.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\zh-Hant\Humanizer.resources.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\e_sqlite3.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.CSharp.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.VisualBasic.Core.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.VisualBasic.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.Win32.Primitives.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.Win32.Registry.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.AppContext.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Buffers.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Collections.Concurrent.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Collections.Immutable.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Collections.NonGeneric.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Collections.Specialized.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Collections.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.ComponentModel.Annotations.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.ComponentModel.DataAnnotations.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.ComponentModel.EventBasedAsync.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.ComponentModel.Primitives.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.ComponentModel.TypeConverter.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.ComponentModel.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Configuration.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Console.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Core.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Data.Common.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Data.DataSetExtensions.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Data.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Diagnostics.Contracts.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Diagnostics.Debug.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Diagnostics.DiagnosticSource.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Diagnostics.FileVersionInfo.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Diagnostics.Process.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Diagnostics.StackTrace.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Diagnostics.Tools.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Diagnostics.TraceSource.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Diagnostics.Tracing.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Drawing.Primitives.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Drawing.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Dynamic.Runtime.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Formats.Asn1.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Globalization.Calendars.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Globalization.Extensions.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Globalization.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.IO.Compression.Brotli.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.IO.Compression.FileSystem.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.IO.Compression.ZipFile.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.IO.Compression.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.IO.FileSystem.AccessControl.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.IO.FileSystem.DriveInfo.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.IO.FileSystem.Primitives.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.IO.FileSystem.Watcher.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.IO.FileSystem.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.IO.IsolatedStorage.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.IO.MemoryMappedFiles.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.IO.Pipes.AccessControl.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.IO.Pipes.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.IO.UnmanagedMemoryStream.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.IO.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Linq.Expressions.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Linq.Parallel.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Linq.Queryable.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Linq.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Memory.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Net.Http.Json.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Net.Http.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Net.HttpListener.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Net.Mail.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Net.NameResolution.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Net.NetworkInformation.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Net.Ping.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Net.Primitives.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Net.Quic.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Net.Requests.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Net.Security.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Net.ServicePoint.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Net.Sockets.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Net.WebClient.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Net.WebHeaderCollection.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Net.WebProxy.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Net.WebSockets.Client.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Net.WebSockets.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Net.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Numerics.Vectors.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Numerics.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.ObjectModel.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Private.CoreLib.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Private.DataContractSerialization.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Private.Uri.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Private.Xml.Linq.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Private.Xml.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Reflection.DispatchProxy.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Reflection.Emit.ILGeneration.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Reflection.Emit.Lightweight.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Reflection.Emit.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Reflection.Extensions.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Reflection.Metadata.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Reflection.Primitives.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Reflection.TypeExtensions.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Reflection.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Resources.Reader.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Resources.ResourceManager.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Resources.Writer.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Runtime.Extensions.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Runtime.Handles.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Runtime.InteropServices.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Runtime.Intrinsics.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Runtime.Loader.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Runtime.Numerics.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Runtime.Serialization.Formatters.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Runtime.Serialization.Json.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Runtime.Serialization.Primitives.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Runtime.Serialization.Xml.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Runtime.Serialization.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Runtime.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Security.AccessControl.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Security.Claims.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Security.Cryptography.Algorithms.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Security.Cryptography.Cng.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Security.Cryptography.Csp.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Security.Cryptography.Encoding.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Security.Cryptography.OpenSsl.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Security.Cryptography.Primitives.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Security.Cryptography.X509Certificates.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Security.Principal.Windows.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Security.Principal.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Security.SecureString.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Security.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.ServiceModel.Web.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.ServiceProcess.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Text.Encoding.CodePages.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Text.Encoding.Extensions.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Text.Encoding.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Text.Encodings.Web.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Text.Json.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Text.RegularExpressions.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Threading.Channels.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Threading.Overlapped.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Threading.Tasks.Dataflow.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Threading.Tasks.Extensions.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Threading.Tasks.Parallel.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Threading.Tasks.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Threading.Thread.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Threading.ThreadPool.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Threading.Timer.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Threading.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Transactions.Local.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Transactions.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.ValueTuple.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Web.HttpUtility.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Web.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Windows.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Xml.Linq.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Xml.ReaderWriter.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Xml.Serialization.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Xml.XDocument.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Xml.XPath.XDocument.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Xml.XPath.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Xml.XmlDocument.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Xml.XmlSerializer.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Xml.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\WindowsBase.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\mscorlib.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\netstandard.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.AspNetCore.Antiforgery.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.AspNetCore.Authentication.Cookies.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.AspNetCore.Authentication.OAuth.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.AspNetCore.Authentication.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.AspNetCore.Authorization.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.AspNetCore.Components.Authorization.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.AspNetCore.Components.Server.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.AspNetCore.Components.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.AspNetCore.CookiePolicy.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.AspNetCore.Cors.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.AspNetCore.DataProtection.Extensions.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.AspNetCore.DataProtection.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.AspNetCore.Diagnostics.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.AspNetCore.HostFiltering.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.AspNetCore.Hosting.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.AspNetCore.Html.Abstractions.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.AspNetCore.Http.Connections.Common.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.AspNetCore.Http.Connections.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.AspNetCore.Http.Results.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.AspNetCore.Http.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.AspNetCore.HttpLogging.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.AspNetCore.HttpOverrides.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.AspNetCore.HttpsPolicy.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.AspNetCore.Identity.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.AspNetCore.Localization.Routing.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.AspNetCore.Localization.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.AspNetCore.Metadata.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.AspNetCore.Mvc.Cors.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.AspNetCore.Mvc.Localization.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.AspNetCore.Mvc.Razor.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.AspNetCore.Mvc.RazorPages.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.AspNetCore.Mvc.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.AspNetCore.Razor.Runtime.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.AspNetCore.Razor.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.AspNetCore.ResponseCaching.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.AspNetCore.ResponseCompression.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.AspNetCore.Rewrite.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.AspNetCore.Routing.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.AspNetCore.Server.HttpSys.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.AspNetCore.Server.IIS.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.AspNetCore.Server.IISIntegration.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.AspNetCore.Server.Kestrel.Transport.Quic.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.AspNetCore.Server.Kestrel.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.AspNetCore.Session.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.AspNetCore.SignalR.Common.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.AspNetCore.SignalR.Core.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.AspNetCore.SignalR.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.AspNetCore.StaticFiles.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.AspNetCore.WebSockets.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.AspNetCore.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.Extensions.Configuration.Ini.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.Extensions.Configuration.KeyPerFile.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.Extensions.Configuration.Xml.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.Extensions.Configuration.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.Extensions.Features.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.Extensions.FileProviders.Composite.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.Extensions.Hosting.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.Extensions.Http.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.Extensions.Identity.Core.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.Extensions.Localization.Abstractions.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.Extensions.Localization.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.Extensions.Logging.Console.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.Extensions.Logging.EventLog.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.Extensions.Logging.EventSource.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.Extensions.Logging.TraceSource.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.Extensions.Logging.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.Extensions.ObjectPool.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.Extensions.Options.DataAnnotations.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.Extensions.Options.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.Extensions.Primitives.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.Extensions.WebEncoders.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.JSInterop.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.Net.Http.Headers.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Diagnostics.EventLog.Messages.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Diagnostics.EventLog.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.IO.Pipelines.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Security.Cryptography.Pkcs.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Security.Cryptography.Xml.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.IO.Compression.Native.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\api-ms-win-core-console-l1-1-0.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\api-ms-win-core-console-l1-2-0.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\api-ms-win-core-datetime-l1-1-0.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\api-ms-win-core-debug-l1-1-0.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\api-ms-win-core-errorhandling-l1-1-0.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\api-ms-win-core-fibers-l1-1-0.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\api-ms-win-core-file-l1-1-0.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\api-ms-win-core-file-l1-2-0.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\api-ms-win-core-file-l2-1-0.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\api-ms-win-core-handle-l1-1-0.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\api-ms-win-core-heap-l1-1-0.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\api-ms-win-core-interlocked-l1-1-0.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\api-ms-win-core-libraryloader-l1-1-0.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\api-ms-win-core-localization-l1-2-0.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\api-ms-win-core-memory-l1-1-0.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\api-ms-win-core-namedpipe-l1-1-0.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\api-ms-win-core-processenvironment-l1-1-0.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\api-ms-win-core-processthreads-l1-1-0.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\api-ms-win-core-processthreads-l1-1-1.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\api-ms-win-core-profile-l1-1-0.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\api-ms-win-core-rtlsupport-l1-1-0.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\api-ms-win-core-string-l1-1-0.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\api-ms-win-core-synch-l1-1-0.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\api-ms-win-core-synch-l1-2-0.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\api-ms-win-core-sysinfo-l1-1-0.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\api-ms-win-core-timezone-l1-1-0.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\api-ms-win-core-util-l1-1-0.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\api-ms-win-crt-conio-l1-1-0.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\api-ms-win-crt-convert-l1-1-0.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\api-ms-win-crt-environment-l1-1-0.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\api-ms-win-crt-filesystem-l1-1-0.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\api-ms-win-crt-heap-l1-1-0.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\api-ms-win-crt-locale-l1-1-0.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\api-ms-win-crt-math-l1-1-0.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\api-ms-win-crt-multibyte-l1-1-0.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\api-ms-win-crt-private-l1-1-0.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\api-ms-win-crt-process-l1-1-0.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\api-ms-win-crt-runtime-l1-1-0.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\api-ms-win-crt-stdio-l1-1-0.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\api-ms-win-crt-string-l1-1-0.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\api-ms-win-crt-time-l1-1-0.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\api-ms-win-crt-utility-l1-1-0.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\clretwrc.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\clrjit.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\coreclr.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\createdump.exe
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\dbgshim.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\hostfxr.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\hostpolicy.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\mscordaccore.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\mscordaccore_amd64_amd64_6.0.3624.51421.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\mscordbi.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\mscorrc.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\msquic.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\ucrtbase.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\aspnetcorev2_inprocess.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\obj\Release\net6.0\win-x64\MLGroupShop.csproj.AssemblyReference.cache
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\obj\Release\net6.0\win-x64\rpswa.dswa.cache.json
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\obj\Release\net6.0\win-x64\MLGroupShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\obj\Release\net6.0\win-x64\MLGroupShop.AssemblyInfoInputs.cache
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\obj\Release\net6.0\win-x64\MLGroupShop.AssemblyInfo.cs
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\obj\Release\net6.0\win-x64\MLGroupShop.csproj.CoreCompileInputs.cache
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\obj\Release\net6.0\win-x64\MLGroupShop.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\obj\Release\net6.0\win-x64\MLGroupShop.RazorAssemblyInfo.cache
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\obj\Release\net6.0\win-x64\MLGroupShop.RazorAssemblyInfo.cs
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\obj\Release\net6.0\win-x64\rjimswa.dswa.cache.json
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\obj\Release\net6.0\win-x64\rjsmrazor.dswa.cache.json
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\obj\Release\net6.0\win-x64\rjsmcshtml.dswa.cache.json
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\obj\Release\net6.0\win-x64\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\obj\Release\net6.0\win-x64\scopedcss\bundle\MLGroupShop.styles.css
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\obj\Release\net6.0\win-x64\scopedcss\projectbundle\MLGroupShop.bundle.scp.css
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\obj\Release\net6.0\win-x64\staticwebassets.build.json
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\obj\Release\net6.0\win-x64\staticwebassets.build.json.cache
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\obj\Release\net6.0\win-x64\staticwebassets.development.json
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\obj\Release\net6.0\win-x64\staticwebassets.build.endpoints.json
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\obj\Release\net6.0\win-x64\swae.build.ex.cache
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\obj\Release\net6.0\win-x64\MLGroupS.3FE37068.Up2Date
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\obj\Release\net6.0\win-x64\MLGroupShop.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\obj\Release\net6.0\win-x64\refint\MLGroupShop.dll
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\obj\Release\net6.0\win-x64\MLGroupShop.pdb
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\obj\Release\net6.0\win-x64\MLGroupShop.genruntimeconfig.cache
+C:\Users\sini4\OneDrive\Рабочий стол\MLGroupShop\MLGroupShop\obj\Release\net6.0\win-x64\ref\MLGroupShop.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\appsettings.Development.json
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\appsettings.json
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\publish\appsettings.Development.json
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\publish\appsettings.json
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\publish\web.config
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\publish\MLGroupShop.deps.json
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\publish\MLGroupShop.runtimeconfig.json
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\publish\MLGroupShop.staticwebassets.endpoints.json
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\MLGroupShop.staticwebassets.runtime.json
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\MLGroupShop.staticwebassets.endpoints.json
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\MLGroupShop.exe
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\MLGroupShop.deps.json
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\MLGroupShop.runtimeconfig.json
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\MLGroupShop.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\MLGroupShop.pdb
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Humanizer.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\MessagePack.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\MessagePack.Annotations.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.AspNetCore.Razor.Language.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.Bcl.AsyncInterfaces.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.CodeAnalysis.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.CodeAnalysis.CSharp.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.CodeAnalysis.CSharp.Features.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.CodeAnalysis.Features.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.CodeAnalysis.Razor.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.CodeAnalysis.Scripting.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.CodeAnalysis.Workspaces.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.Data.SqlClient.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.Data.Sqlite.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.DiaSymReader.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.DotNet.Scaffolding.Shared.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.EntityFrameworkCore.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.EntityFrameworkCore.Design.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.EntityFrameworkCore.Relational.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.EntityFrameworkCore.Sqlite.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.Extensions.DependencyModel.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.Identity.Client.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.IdentityModel.Abstractions.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.IdentityModel.Logging.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.IdentityModel.Protocols.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.IdentityModel.Tokens.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.VisualStudio.Debugger.Contracts.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.VisualStudio.Web.CodeGeneration.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\dotnet-aspnet-codegenerator-design.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.Win32.SystemEvents.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Newtonsoft.Json.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\NuGet.Common.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\NuGet.Configuration.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\NuGet.DependencyResolver.Core.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\NuGet.Frameworks.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\NuGet.LibraryModel.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\NuGet.Packaging.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\NuGet.ProjectModel.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\NuGet.Protocol.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\NuGet.Versioning.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\SQLitePCLRaw.batteries_v2.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\SQLitePCLRaw.core.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\SQLitePCLRaw.provider.e_sqlite3.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Composition.AttributedModel.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Composition.Convention.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Composition.Hosting.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Composition.Runtime.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Composition.TypedParts.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Configuration.ConfigurationManager.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Drawing.Common.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.IdentityModel.Tokens.Jwt.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Runtime.Caching.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Security.Cryptography.ProtectedData.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Security.Permissions.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Windows.Extensions.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\af\Humanizer.resources.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\ar\Humanizer.resources.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\az\Humanizer.resources.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\bg\Humanizer.resources.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\bn-BD\Humanizer.resources.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\cs\Humanizer.resources.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\da\Humanizer.resources.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\de\Humanizer.resources.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\el\Humanizer.resources.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\es\Humanizer.resources.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\fa\Humanizer.resources.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\fi-FI\Humanizer.resources.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\fr\Humanizer.resources.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\fr-BE\Humanizer.resources.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\he\Humanizer.resources.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\hr\Humanizer.resources.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\hu\Humanizer.resources.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\hy\Humanizer.resources.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\id\Humanizer.resources.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\is\Humanizer.resources.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\it\Humanizer.resources.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\ja\Humanizer.resources.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\ko-KR\Humanizer.resources.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\ku\Humanizer.resources.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\lv\Humanizer.resources.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\ms-MY\Humanizer.resources.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\mt\Humanizer.resources.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\nb\Humanizer.resources.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\nb-NO\Humanizer.resources.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\nl\Humanizer.resources.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\pl\Humanizer.resources.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\pt\Humanizer.resources.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\ro\Humanizer.resources.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\ru\Humanizer.resources.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\sk\Humanizer.resources.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\sl\Humanizer.resources.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\sr\Humanizer.resources.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\sr-Latn\Humanizer.resources.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\sv\Humanizer.resources.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\th-TH\Humanizer.resources.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\tr\Humanizer.resources.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\uk\Humanizer.resources.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\uz-Cyrl-UZ\Humanizer.resources.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\uz-Latn-UZ\Humanizer.resources.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\vi\Humanizer.resources.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\zh-CN\Humanizer.resources.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\zh-Hans\Humanizer.resources.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\zh-Hant\Humanizer.resources.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\cs\Microsoft.CodeAnalysis.resources.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\de\Microsoft.CodeAnalysis.resources.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\es\Microsoft.CodeAnalysis.resources.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\fr\Microsoft.CodeAnalysis.resources.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\it\Microsoft.CodeAnalysis.resources.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\ja\Microsoft.CodeAnalysis.resources.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\ko\Microsoft.CodeAnalysis.resources.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\pl\Microsoft.CodeAnalysis.resources.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\ru\Microsoft.CodeAnalysis.resources.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\tr\Microsoft.CodeAnalysis.resources.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\cs\Microsoft.CodeAnalysis.Features.resources.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\de\Microsoft.CodeAnalysis.Features.resources.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\es\Microsoft.CodeAnalysis.Features.resources.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\fr\Microsoft.CodeAnalysis.Features.resources.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\it\Microsoft.CodeAnalysis.Features.resources.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\ja\Microsoft.CodeAnalysis.Features.resources.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\ko\Microsoft.CodeAnalysis.Features.resources.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\pl\Microsoft.CodeAnalysis.Features.resources.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\ru\Microsoft.CodeAnalysis.Features.resources.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\tr\Microsoft.CodeAnalysis.Features.resources.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.Data.SqlClient.SNI.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\e_sqlite3.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.CSharp.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.VisualBasic.Core.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.VisualBasic.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.Win32.Primitives.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.Win32.Registry.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.AppContext.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Buffers.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Collections.Concurrent.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Collections.Immutable.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Collections.NonGeneric.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Collections.Specialized.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Collections.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.ComponentModel.Annotations.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.ComponentModel.DataAnnotations.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.ComponentModel.EventBasedAsync.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.ComponentModel.Primitives.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.ComponentModel.TypeConverter.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.ComponentModel.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Configuration.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Console.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Core.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Data.Common.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Data.DataSetExtensions.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Data.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Diagnostics.Contracts.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Diagnostics.Debug.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Diagnostics.DiagnosticSource.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Diagnostics.FileVersionInfo.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Diagnostics.Process.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Diagnostics.StackTrace.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Diagnostics.TextWriterTraceListener.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Diagnostics.Tools.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Diagnostics.TraceSource.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Diagnostics.Tracing.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Drawing.Primitives.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Drawing.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Dynamic.Runtime.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Formats.Asn1.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Globalization.Calendars.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Globalization.Extensions.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Globalization.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.IO.Compression.Brotli.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.IO.Compression.FileSystem.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.IO.Compression.ZipFile.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.IO.Compression.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.IO.FileSystem.AccessControl.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.IO.FileSystem.DriveInfo.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.IO.FileSystem.Primitives.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.IO.FileSystem.Watcher.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.IO.FileSystem.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.IO.IsolatedStorage.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.IO.MemoryMappedFiles.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.IO.Pipes.AccessControl.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.IO.Pipes.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.IO.UnmanagedMemoryStream.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.IO.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Linq.Expressions.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Linq.Parallel.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Linq.Queryable.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Linq.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Memory.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Net.Http.Json.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Net.Http.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Net.HttpListener.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Net.Mail.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Net.NameResolution.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Net.NetworkInformation.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Net.Ping.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Net.Primitives.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Net.Quic.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Net.Requests.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Net.Security.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Net.ServicePoint.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Net.Sockets.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Net.WebClient.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Net.WebHeaderCollection.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Net.WebProxy.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Net.WebSockets.Client.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Net.WebSockets.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Net.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Numerics.Vectors.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Numerics.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.ObjectModel.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Private.CoreLib.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Private.DataContractSerialization.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Private.Uri.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Private.Xml.Linq.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Private.Xml.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Reflection.DispatchProxy.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Reflection.Emit.ILGeneration.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Reflection.Emit.Lightweight.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Reflection.Emit.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Reflection.Extensions.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Reflection.Metadata.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Reflection.Primitives.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Reflection.TypeExtensions.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Reflection.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Resources.Reader.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Resources.ResourceManager.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Resources.Writer.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Runtime.CompilerServices.Unsafe.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Runtime.CompilerServices.VisualC.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Runtime.Extensions.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Runtime.Handles.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Runtime.InteropServices.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Runtime.Intrinsics.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Runtime.Loader.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Runtime.Numerics.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Runtime.Serialization.Formatters.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Runtime.Serialization.Json.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Runtime.Serialization.Primitives.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Runtime.Serialization.Xml.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Runtime.Serialization.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Runtime.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Security.AccessControl.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Security.Claims.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Security.Cryptography.Algorithms.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Security.Cryptography.Cng.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Security.Cryptography.Csp.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Security.Cryptography.Encoding.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Security.Cryptography.OpenSsl.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Security.Cryptography.Primitives.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Security.Cryptography.X509Certificates.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Security.Principal.Windows.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Security.Principal.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Security.SecureString.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Security.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.ServiceModel.Web.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.ServiceProcess.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Text.Encoding.CodePages.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Text.Encoding.Extensions.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Text.Encoding.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Text.Encodings.Web.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Text.Json.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Text.RegularExpressions.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Threading.Channels.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Threading.Overlapped.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Threading.Tasks.Dataflow.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Threading.Tasks.Extensions.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Threading.Tasks.Parallel.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Threading.Tasks.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Threading.Thread.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Threading.ThreadPool.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Threading.Timer.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Threading.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Transactions.Local.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Transactions.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.ValueTuple.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Web.HttpUtility.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Web.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Windows.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Xml.Linq.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Xml.ReaderWriter.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Xml.Serialization.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Xml.XDocument.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Xml.XPath.XDocument.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Xml.XPath.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Xml.XmlDocument.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Xml.XmlSerializer.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Xml.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\WindowsBase.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\mscorlib.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\netstandard.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.AspNetCore.Antiforgery.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.AspNetCore.Authentication.Abstractions.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.AspNetCore.Authentication.Cookies.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.AspNetCore.Authentication.Core.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.AspNetCore.Authentication.OAuth.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.AspNetCore.Authentication.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.AspNetCore.Authorization.Policy.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.AspNetCore.Authorization.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.AspNetCore.Components.Authorization.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.AspNetCore.Components.Forms.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.AspNetCore.Components.Server.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.AspNetCore.Components.Web.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.AspNetCore.Components.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.AspNetCore.Connections.Abstractions.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.AspNetCore.CookiePolicy.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.AspNetCore.Cors.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.AspNetCore.Cryptography.Internal.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.AspNetCore.DataProtection.Extensions.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.AspNetCore.DataProtection.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.AspNetCore.Diagnostics.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.AspNetCore.HostFiltering.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.AspNetCore.Hosting.Abstractions.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.AspNetCore.Hosting.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.AspNetCore.Html.Abstractions.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.AspNetCore.Http.Abstractions.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.AspNetCore.Http.Connections.Common.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.AspNetCore.Http.Connections.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.AspNetCore.Http.Extensions.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.AspNetCore.Http.Features.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.AspNetCore.Http.Results.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.AspNetCore.Http.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.AspNetCore.HttpLogging.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.AspNetCore.HttpOverrides.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.AspNetCore.HttpsPolicy.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.AspNetCore.Identity.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.AspNetCore.Localization.Routing.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.AspNetCore.Localization.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.AspNetCore.Metadata.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.AspNetCore.Mvc.Abstractions.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.AspNetCore.Mvc.Core.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.AspNetCore.Mvc.Cors.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.AspNetCore.Mvc.Localization.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.AspNetCore.Mvc.Razor.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.AspNetCore.Mvc.RazorPages.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.AspNetCore.Mvc.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.AspNetCore.Razor.Runtime.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.AspNetCore.Razor.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.AspNetCore.ResponseCaching.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.AspNetCore.ResponseCompression.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.AspNetCore.Rewrite.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.AspNetCore.Routing.Abstractions.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.AspNetCore.Routing.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.AspNetCore.Server.HttpSys.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.AspNetCore.Server.IIS.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.AspNetCore.Server.IISIntegration.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.AspNetCore.Server.Kestrel.Transport.Quic.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.AspNetCore.Server.Kestrel.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.AspNetCore.Session.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.AspNetCore.SignalR.Common.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.AspNetCore.SignalR.Core.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.AspNetCore.SignalR.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.AspNetCore.StaticFiles.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.AspNetCore.WebSockets.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.AspNetCore.WebUtilities.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.AspNetCore.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.Extensions.Caching.Abstractions.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.Extensions.Caching.Memory.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.Extensions.Configuration.Binder.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.Extensions.Configuration.CommandLine.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.Extensions.Configuration.FileExtensions.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.Extensions.Configuration.Ini.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.Extensions.Configuration.Json.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.Extensions.Configuration.KeyPerFile.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.Extensions.Configuration.UserSecrets.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.Extensions.Configuration.Xml.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.Extensions.Configuration.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.Extensions.DependencyInjection.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.Extensions.Features.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.Extensions.FileProviders.Abstractions.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.Extensions.FileProviders.Composite.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.Extensions.FileProviders.Embedded.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.Extensions.FileProviders.Physical.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.Extensions.FileSystemGlobbing.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.Extensions.Hosting.Abstractions.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.Extensions.Hosting.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.Extensions.Http.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.Extensions.Identity.Core.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.Extensions.Identity.Stores.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.Extensions.Localization.Abstractions.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.Extensions.Localization.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.Extensions.Logging.Abstractions.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.Extensions.Logging.Configuration.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.Extensions.Logging.Console.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.Extensions.Logging.Debug.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.Extensions.Logging.EventLog.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.Extensions.Logging.EventSource.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.Extensions.Logging.TraceSource.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.Extensions.Logging.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.Extensions.ObjectPool.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.Extensions.Options.DataAnnotations.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.Extensions.Options.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.Extensions.Primitives.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.Extensions.WebEncoders.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.JSInterop.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.Net.Http.Headers.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Diagnostics.EventLog.Messages.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Diagnostics.EventLog.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.IO.Pipelines.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Security.Cryptography.Pkcs.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.Security.Cryptography.Xml.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\Microsoft.DiaSymReader.Native.amd64.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\System.IO.Compression.Native.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\api-ms-win-core-console-l1-1-0.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\api-ms-win-core-console-l1-2-0.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\api-ms-win-core-datetime-l1-1-0.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\api-ms-win-core-debug-l1-1-0.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\api-ms-win-core-errorhandling-l1-1-0.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\api-ms-win-core-fibers-l1-1-0.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\api-ms-win-core-file-l1-1-0.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\api-ms-win-core-file-l1-2-0.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\api-ms-win-core-file-l2-1-0.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\api-ms-win-core-handle-l1-1-0.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\api-ms-win-core-heap-l1-1-0.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\api-ms-win-core-interlocked-l1-1-0.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\api-ms-win-core-libraryloader-l1-1-0.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\api-ms-win-core-localization-l1-2-0.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\api-ms-win-core-memory-l1-1-0.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\api-ms-win-core-namedpipe-l1-1-0.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\api-ms-win-core-processenvironment-l1-1-0.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\api-ms-win-core-processthreads-l1-1-0.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\api-ms-win-core-processthreads-l1-1-1.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\api-ms-win-core-profile-l1-1-0.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\api-ms-win-core-rtlsupport-l1-1-0.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\api-ms-win-core-string-l1-1-0.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\api-ms-win-core-synch-l1-1-0.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\api-ms-win-core-synch-l1-2-0.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\api-ms-win-core-sysinfo-l1-1-0.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\api-ms-win-core-timezone-l1-1-0.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\api-ms-win-core-util-l1-1-0.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\api-ms-win-crt-conio-l1-1-0.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\api-ms-win-crt-convert-l1-1-0.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\api-ms-win-crt-environment-l1-1-0.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\api-ms-win-crt-filesystem-l1-1-0.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\api-ms-win-crt-heap-l1-1-0.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\api-ms-win-crt-locale-l1-1-0.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\api-ms-win-crt-math-l1-1-0.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\api-ms-win-crt-multibyte-l1-1-0.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\api-ms-win-crt-private-l1-1-0.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\api-ms-win-crt-process-l1-1-0.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\api-ms-win-crt-runtime-l1-1-0.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\api-ms-win-crt-stdio-l1-1-0.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\api-ms-win-crt-string-l1-1-0.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\api-ms-win-crt-time-l1-1-0.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\api-ms-win-crt-utility-l1-1-0.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\clretwrc.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\clrjit.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\coreclr.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\createdump.exe
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\dbgshim.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\hostfxr.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\hostpolicy.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\mscordaccore.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\mscordaccore_amd64_amd64_6.0.3624.51421.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\mscordbi.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\mscorrc.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\msquic.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\ucrtbase.dll
+F:\MLGroupShop\MLGroupShop\bin\Release\net6.0\win-x64\aspnetcorev2_inprocess.dll
+F:\MLGroupShop\MLGroupShop\obj\Release\net6.0\win-x64\MLGroupShop.csproj.AssemblyReference.cache
+F:\MLGroupShop\MLGroupShop\obj\Release\net6.0\win-x64\rpswa.dswa.cache.json
+F:\MLGroupShop\MLGroupShop\obj\Release\net6.0\win-x64\MLGroupShop.GeneratedMSBuildEditorConfig.editorconfig
+F:\MLGroupShop\MLGroupShop\obj\Release\net6.0\win-x64\MLGroupShop.AssemblyInfoInputs.cache
+F:\MLGroupShop\MLGroupShop\obj\Release\net6.0\win-x64\MLGroupShop.AssemblyInfo.cs
+F:\MLGroupShop\MLGroupShop\obj\Release\net6.0\win-x64\MLGroupShop.csproj.CoreCompileInputs.cache
+F:\MLGroupShop\MLGroupShop\obj\Release\net6.0\win-x64\MLGroupShop.MvcApplicationPartsAssemblyInfo.cache
+F:\MLGroupShop\MLGroupShop\obj\Release\net6.0\win-x64\MLGroupShop.RazorAssemblyInfo.cache
+F:\MLGroupShop\MLGroupShop\obj\Release\net6.0\win-x64\MLGroupShop.RazorAssemblyInfo.cs
+F:\MLGroupShop\MLGroupShop\obj\Release\net6.0\win-x64\rjimswa.dswa.cache.json
+F:\MLGroupShop\MLGroupShop\obj\Release\net6.0\win-x64\rjsmrazor.dswa.cache.json
+F:\MLGroupShop\MLGroupShop\obj\Release\net6.0\win-x64\rjsmcshtml.dswa.cache.json
+F:\MLGroupShop\MLGroupShop\obj\Release\net6.0\win-x64\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+F:\MLGroupShop\MLGroupShop\obj\Release\net6.0\win-x64\scopedcss\bundle\MLGroupShop.styles.css
+F:\MLGroupShop\MLGroupShop\obj\Release\net6.0\win-x64\scopedcss\projectbundle\MLGroupShop.bundle.scp.css
+F:\MLGroupShop\MLGroupShop\obj\Release\net6.0\win-x64\staticwebassets.build.json
+F:\MLGroupShop\MLGroupShop\obj\Release\net6.0\win-x64\staticwebassets.build.json.cache
+F:\MLGroupShop\MLGroupShop\obj\Release\net6.0\win-x64\staticwebassets.development.json
+F:\MLGroupShop\MLGroupShop\obj\Release\net6.0\win-x64\staticwebassets.build.endpoints.json
+F:\MLGroupShop\MLGroupShop\obj\Release\net6.0\win-x64\swae.build.ex.cache
+F:\MLGroupShop\MLGroupShop\obj\Release\net6.0\win-x64\MLGroupS.3FE37068.Up2Date
+F:\MLGroupShop\MLGroupShop\obj\Release\net6.0\win-x64\MLGroupShop.dll
+F:\MLGroupShop\MLGroupShop\obj\Release\net6.0\win-x64\refint\MLGroupShop.dll
+F:\MLGroupShop\MLGroupShop\obj\Release\net6.0\win-x64\MLGroupShop.pdb
+F:\MLGroupShop\MLGroupShop\obj\Release\net6.0\win-x64\MLGroupShop.genruntimeconfig.cache
+F:\MLGroupShop\MLGroupShop\obj\Release\net6.0\win-x64\ref\MLGroupShop.dll

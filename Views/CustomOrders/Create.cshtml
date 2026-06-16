@@ -1,0 +1,89 @@
+﻿@model MLGroupShop.Models.CustomOrder
+
+<div class="container mt-5">
+    @if (TempData["Success"] != null)
+    {
+        <div class="alert alert-success shadow rounded-4 mb-4">
+
+            @TempData["Success"]
+
+        </div>
+    }
+
+    <div class="card p-5 shadow-lg border-0 rounded-4">
+
+        <h1 class="fw-bold mb-4">
+            Индивидуальный пошив
+        </h1>
+
+        <form asp-controller="CustomOrders"
+              asp-action="Create"
+              method="post">
+
+            <div class="mb-3">
+
+                <label>ФИО</label>
+
+                <input asp-for="CustomerName"
+                       class="form-control" />
+
+            </div>
+
+            <div class="mb-3">
+
+                <label>Телефон</label>
+
+                <input asp-for="Phone"
+                       class="form-control" />
+
+            </div>
+
+            <div class="mb-3">
+
+                <label>Тип изделия</label>
+
+                <input asp-for="ProductType"
+                       class="form-control"
+                       placeholder="Худи, футболка, форма..." />
+
+            </div>
+
+            <div class="mb-3">
+
+                <label>Размер</label>
+
+                <input asp-for="Size"
+                       class="form-control" />
+
+            </div>
+
+            <div class="mb-3">
+
+                <label>Цвет</label>
+
+                <input asp-for="Color"
+                       class="form-control" />
+
+            </div>
+
+            <div class="mb-4">
+
+                <label>Описание заказа</label>
+
+                <textarea asp-for="Description"
+                          class="form-control"
+                          rows="5"></textarea>
+
+            </div>
+
+            <button class="btn btn-primary btn-lg rounded-pill px-5">
+
+                Отправить заявку
+
+            </button>
+
+        </form>
+
+    </div>
+
+</div>

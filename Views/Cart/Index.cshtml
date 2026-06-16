@@ -1,0 +1,347 @@
+﻿@model IEnumerable<MLGroupShop.Models.CartItem>
+
+@{
+    ViewData["Title"] = "Корзина";
+}
+
+<style>
+
+    body {
+        background: #f5f7fb;
+        font-family: 'Manrope', sans-serif;
+    }
+
+    .cart-title {
+        font-size: 58px;
+        font-weight: 900;
+        color: #0f172a;
+        margin-bottom: 40px;
+    }
+
+    .cart-table th {
+        font-size: 24px;
+        font-weight: 700;
+        color: #0f172a;
+        padding: 25px !important;
+    }
+
+    .cart-table td {
+        font-size: 24px;
+        vertical-align: middle;
+        padding: 28px !important;
+    }
+
+    .cart-img {
+        width: 220px;
+        height: 270px;
+        object-fit: cover;
+        border-radius: 18px;
+    }
+
+    .cart-btn {
+        width: 42px;
+        height: 42px;
+        border: none;
+        border-radius: 12px;
+        background: #2563eb;
+        color: white;
+        font-size: 24px;
+        font-weight: 700;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        text-decoration: none;
+        transition: .3s;
+    }
+
+        .cart-btn:hover {
+            background: #1d4ed8;
+            color: white;
+        }
+
+    .delete-btn {
+        background: #2563eb;
+        color: white;
+        border: none;
+        border-radius: 14px;
+        padding: 14px 24px;
+        font-size: 20px;
+        font-weight: 700;
+        text-decoration: none;
+    }
+
+        .delete-btn:hover {
+            background: #1d4ed8;
+            color: white;
+        }
+
+    .quantity {
+        font-size: 24px;
+        font-weight: 700;
+        min-width: 30px;
+        text-align: center;
+    }
+
+    .total-price {
+        font-size: 46px;
+        font-weight: 900;
+        color: #0f172a;
+        margin-top: 40px;
+        margin-bottom: 30px;
+    }
+
+    .order-input {
+        height: 68px;
+        border-radius: 18px;
+        font-size: 22px;
+        padding-left: 22px;
+        margin-bottom: 20px;
+        border: 1px solid #dbe2ea;
+    }
+
+    .checkout-btn {
+        background: #2563eb;
+        border: none;
+        border-radius: 18px;
+        padding: 18px 38px;
+        color: white;
+        font-size: 24px;
+        font-weight: 800;
+        transition: .3s;
+    }
+
+        .checkout-btn:hover {
+            background: #1d4ed8;
+        }
+
+    .back-btn {
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+        background: #0f172a;
+        color: white;
+        text-decoration: none;
+        padding: 18px 34px;
+        border-radius: 18px;
+        font-size: 22px;
+        font-weight: 700;
+        margin-bottom: 35px;
+    }
+
+        .back-btn:hover {
+            color: white;
+            background: #020617;
+        }
+
+</style>
+
+<div class="container mt-5 mb-5">
+
+    <a asp-controller="Products"
+           asp-action="Index"
+           class="back-btn">
+
+        ← Вернуться к товарам
+
+    </a>
+
+    <h1 class="cart-title">
+        Корзина
+    </h1>
+
+    @if (TempData["Message"] != null)
+    {
+        <div class="alert alert-success fs-4 p-4 rounded-4">
+            @TempData["Message"]
+        </div>
+    }
+
+    <form asp-action="Checkout" method="post">
+
+        <table class="table align-middle cart-table">
+
+            <thead>
+
+                <tr>
+
+                    <th>Выбрать</th>
+                    <th>Фото</th>
+                    <th>Товар</th>
+                    <th>Цена</th>
+                    <th>Количество</th>
+                    <th>Удаление</th>
+
+                </tr>
+
+            </thead>
+
+            <tbody>
+
+                @foreach (var item in Model)
+                {
+                    <tr>
+
+                        <td>
+
+                            <input type="checkbox"
+                                   name="selectedItems"
+                                   value="@item.Id"
+                                   class="product-check"
+                                   style="width:25px;height:25px;" />
+
+                        </td>
+
+                        <td>
+
+                            <img src="@item.ImagePath"
+                                 class="cart-img" />
+
+                        </td>
+
+                        <td>
+
+                            @item.ProductName
+
+                        </td>
+
+                        <td class="price fw-bold text-primary">
+
+                            @item.Price ₽
+
+                        </td>
+
+                        <td>
+
+                            <div class="d-flex align-items-center gap-3">
+
+                                <a class="cart-btn"
+                                       asp-action="Decrease"
+                                       asp-route-id="@item.Id">
+
+                                    -
+
+                                </a>
+
+                                <span class="quantity">
+
+                                    @item.Quantity
+
+                                </span>
+
+                                <a class="cart-btn"
+                                       asp-action="Increase"
+                                       asp-route-id="@item.Id">
+
+                                    +
+
+                                </a>
+
+                            </div>
+
+                        </td>
+
+                        <td>
+
+                            <a class="delete-btn"
+                                   asp-action="Remove"
+                                   asp-route-id="@item.Id">
+
+                                Удалить
+
+                            </a>
+
+                        </td>
+
+                    </tr>
+                }
+
+            </tbody>
+
+        </table>
+
+        <h2 class="total-price">
+
+            Общая сумма:
+            <span id="total">0</span> ₽
+
+        </h2>
+
+        <div class="mb-4">
+
+            <input type="text"
+                   name="customerName"
+                   class="form-control order-input"
+                   placeholder="ФИО" />
+
+            <input type="text"
+                   name="phone"
+                   class="form-control order-input"
+                   placeholder="Номер телефона" />
+
+            <input type="text"
+                   name="address"
+                   class="form-control order-input"
+                   placeholder="Адрес доставки" />
+
+        </div>
+
+        <button type="submit"
+                class="checkout-btn">
+
+            Оформить выбранные товары
+
+        </button>
+
+    </form>
+
+</div>
+
+<script>
+
+    function updateTotal() {
+
+        let total = 0;
+
+        const rows = document.querySelectorAll("tbody tr");
+
+        rows.forEach(row => {
+
+            const checkbox =
+                row.querySelector(".product-check");
+
+            if (checkbox.checked) {
+
+                const price =
+                    parseFloat(
+                        row.querySelector(".price")
+                        .innerText
+                        .replace("₽", "")
+                        .replace(",", ".")
+                    );
+
+                const quantity =
+                    parseInt(
+                        row.querySelector(".quantity")
+                        .innerText
+                    );
+
+                total += price * quantity;
+            }
+
+        });
+
+        document.getElementById("total")
+            .innerText = total.toFixed(0);
+
+    }
+
+    const checks =
+        document.querySelectorAll(".product-check");
+
+    checks.forEach(check => {
+
+        check.addEventListener("change", updateTotal);
+
+    });
+
+</script>
