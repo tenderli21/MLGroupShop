@@ -50,6 +50,8 @@ builder.Services.AddAuthentication("CookieAuth")
 
 var app = builder.Build();
 
+app.Urls.Add("http://0.0.0.0:8080");
+
 if (!app.Environment.IsDevelopment())
 {
     app.UseExceptionHandler("/Home/Error");
