@@ -24,7 +24,7 @@ var launchUrl = launchUrls.FirstOrDefault(url =>
 var useHttpsRedirection = isDevelopment;
 
 builder.Services.AddDbContext<AppDbContext>(options =>
-   options.UseSqlite("Data Source=shop.db");
+   options.UseSqlite("Data Source=shop.db"));
 
 builder.Services.AddControllersWithViews();
 
@@ -72,21 +72,7 @@ app.MapControllerRoute(
     name: "default",
     pattern: "{controller=Account}/{action=Login}/{id?}");
 
-app.Lifetime.ApplicationStarted.Register(() =>
-{
-    try
-    {
-        Process.Start(new ProcessStartInfo
-        {
-            FileName = launchUrl,
-            UseShellExecute = true
-        });
-    }
-    catch
-    {
-        // If the browser cannot be opened automatically, keep the host running.
-    }
-});
+
 
 
 app.Run();
